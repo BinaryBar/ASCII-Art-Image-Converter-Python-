@@ -1,2 +1,15 @@
-# ASCII-Art-Image-Converter-Python-
-This Python program converts any image into ASCII characters and prints it in the terminal. It's fun and perfect for learning image processing and creative coding!
+# 🎨 ASCII Art Image Converter
+
+A Python project that converts any image into ASCII art and saves it as text.
+
+## 🧠 What You Learn
+
+- Image resizing & grayscale conversion using Pillow
+- Mapping pixel brightness to ASCII characters
+- String formatting and file handling
+
+## 📦 Requirements
+
+Install Pillow if you haven’t already:
+```bash
+pip install pillow
